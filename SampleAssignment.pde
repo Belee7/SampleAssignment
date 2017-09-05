@@ -1,11 +1,11 @@
 
 void setup()
 {
-  size(200,100);
+  size(200,200);
 }
 void draw()
 {
-  fill(255,255,0);
+  fill(255,0,255);
   ellipse(100,50,80,80);
   arc(100,50,60,60,PI/8,7*PI/8);
   fill(0,0,0);
